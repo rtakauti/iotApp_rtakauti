@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "637493064933",
+    "firebase_url": "https://iotapprubens.firebaseio.com",
+    "project_id": "iotapprubens",
+    "storage_bucket": "iotapprubens.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637493064933:android:f92092ff866e4849",
+        "android_client_info": {
+          "package_name": "br.com.rtakauti.iotapp_rtakauti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "637493064933-0hnj463beqkv1g08vubi2u4qbj9sotmh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.rtakauti.iotapp_rtakauti",
+            "certificate_hash": "beb224284730e1ec2ea6857c4e52af0c0438cd6c"
+          }
+        },
+        {
+          "client_id": "637493064933-p2ffdf1sgacukt0gh42av1c0qpr2m6cj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-TlQuh1pX4cvZYJk3l1GI01JW58zd1-Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "637493064933-p2ffdf1sgacukt0gh42av1c0qpr2m6cj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
